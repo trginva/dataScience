@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1565186645954.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3811537067",
+    "id" : "C2C026EE",
+    "lastKnownWriteTime" : 1565186663,
+    "last_content_update" : 1565186707191,
+    "path" : "C:/Users/student/Desktop/gits/dataScience/scripts/wrangle.R",
+    "project_path" : "scripts/wrangle.R",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
